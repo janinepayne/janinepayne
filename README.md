@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janinepayne
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning game art and programming
-- 📫 How to reach me: by email at janine.payne@gmail.com
+- 📫 How to reach me: by email at janine.payne71@gmail.com
 
 <!---
 janinepayne/janinepayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
